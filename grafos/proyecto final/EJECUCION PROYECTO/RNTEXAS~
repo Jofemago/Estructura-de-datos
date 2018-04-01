@@ -1,0 +1,34 @@
+Road network of Texas
+CARGAMOS EL GRAFO
+hh:mm:ss 2:56:10
+dd-mm-aaaa: 7-6-2016
+El numero de Vertices es: 1379917
+El numero de Arcos es: 3843320
+
+CONVERTIMOS EL GRAFO A NO DIRIGIDO
+hh:mm:ss 2:56:23
+dd-mm-aaaa: 7-6-2016
+
+CALCULAMOS LAS COMPONENTES CONEXAS
+hh:mm:ss 2:56:25
+dd-mm-aaaa: 7-6-2016
+El numero de componentes conexas es: 424
+El numero que tiene la componente conexa mas grande es: 1351137
+
+CALCULAMOS EL DIAMETRO
+hh:mm:ss 3:3:34
+dd-mm-aaaa: 7-6-2016
+Road network of Texas
+CARGAMOS EL GRAFO
+hh:mm:ss 18:37:41
+dd-mm-aaaa: 7-6-2016
+El numero de Vertices es: 1379917
+El numero de Arcos es: 3843320
+
+CONVERTIMOS EL GRAFO A NO DIRIGIDO
+hh:mm:ss 18:37:57
+dd-mm-aaaa: 7-6-2016
+
+CALCULAMOS LAS COMPONENTES CONEXAS
+hh:mm:ss 18:37:59
+dd-mm-aaaa: 7-6-2016

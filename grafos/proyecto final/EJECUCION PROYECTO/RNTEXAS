@@ -1,0 +1,14 @@
+Road network of Texas
+CARGAMOS EL GRAFO
+hh:mm:ss 18:38:12
+dd-mm-aaaa: 7-6-2016
+El numero de Vertices es: 1379917
+El numero de Arcos es: 3843320
+
+CONVERTIMOS EL GRAFO A NO DIRIGIDO
+hh:mm:ss 18:38:26
+dd-mm-aaaa: 7-6-2016
+
+CALCULAMOS LAS COMPONENTES CONEXAS
+hh:mm:ss 18:38:28
+dd-mm-aaaa: 7-6-2016

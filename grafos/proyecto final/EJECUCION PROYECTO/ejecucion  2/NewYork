@@ -1,0 +1,21 @@
+NEW YORK MINCUT
+CARGAMOS EL GRAFO
+hh:mm:ss 1:14:25
+dd-mm-aaaa: 9-6-2016
+El numero de Vertices es: 264347
+El numero de Arcos es: 730101
+
+CONVERTIMOS EL GRAFO A NO DIRIGIDO
+hh:mm:ss 1:14:30
+dd-mm-aaaa: 9-6-2016
+
+CALCULAMOS LAS COMPONENTES CONEXAS
+hh:mm:ss 1:14:30
+dd-mm-aaaa: 9-6-2016
+El numero de componentes conexas es: 1
+El numero que tiene la componente conexa mas grande es: 264347
+
+CALCULAMOS EL KARGER MINCUT 
+hh:mm:ss 1:14:32
+dd-mm-aaaa: 9-6-2016
+El grado promedio es: 2
